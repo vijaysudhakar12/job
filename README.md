@@ -18,15 +18,15 @@ Features:
 📱 Responsive Design: Our website is built with a responsive design, ensuring a seamless experience across different devices and screen sizes.
 Technologies Used:
 
-HTML5
+> HTML5
 
-CSS3
+> CSS3
 
-JavaScript
+> JavaScript
 
-Bootstrap
+> Bootstrap
 
-jQuery
+> jQuery
 
 
 Join us on our mission to simplify the job search process and connect talented individuals with rewarding career opportunities. 🚀
