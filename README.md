@@ -15,9 +15,14 @@ Features:
 Technologies Used:
 
 HTML5
+
 CSS3
+
 JavaScript
+
 Bootstrap
+
 jQuery
+
 
 Join us on our mission to simplify the job search process and connect talented individuals with rewarding career opportunities. 🚀
