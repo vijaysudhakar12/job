@@ -1,3 +1,4 @@
+![Screenshot (79)](https://github.com/vijaysudhakar12/job/assets/114855917/47235cd8-528e-4c68-8aa7-bbd9ff87bc61)
 🌟 Welcome to our Job Portal Website! 🌟
 
 Our Job Portal Website is designed to revolutionize the job searching and recruitment process. Whether you're a job seeker 👩‍💼 looking for your next opportunity or an employer 👨‍💼 searching for top talent, our platform offers the tools and features you need to succeed.
