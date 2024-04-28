@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Japanese Language Teacher",
+    "location": "Tokyo, Japan",
+    "category": "Education / Language Teaching",
+    "deadline": "Deadline: May 15, 2024",
+    "image": "assets/images/ACT.jpg",
+    "jobType": "Part-time"
+  },
+  {
+    "title": "Software Engineer (Java)",
+    "location": "Osaka, Japan",
+    "category": "Information Technology / Software Development",
+    "deadline": "Deadline: May 20, 2024",
+    "image": "assets/images/logo/Mitsubishi E_1.png",
+    "jobType": "Full-time"
+  },
+  {
+    "title": "Software Engineer (Java)",
+    "location": "Osaka, Japan",
+    "category": "Information Technology / Software Development",
+    "deadline": "Deadline: May 20, 2024",
+    "image": "assets/images/logo/Mitsubishi E_1.png",
+    "jobType": "Part-time"
+  },
+  {
+    "title": "Marketing Coordinator",
+    "location": "Kyoto, Japan",
+    "category": "Marketing / Advertising",
+    "deadline": "Deadline: May 18, 2024",
+    "image": "assets/images/disnep.jpg",
+    "jobType": "Full-time"
+  },
+  {
+    "title": "Data Science Intern",
+    "location": "Tokyo, Japan",
+    "category": "Information Technology / Data Science",
+    "deadline": "Deadline: May 25, 2024",
+    "image": "assets/images/honda.jpg",
+    "jobType": "Intern"
+  },
+  {
+    "title": "Marketing Intern",
+    "location": "Osaka, Japan",
+    "category": "Marketing / Advertising",
+    "deadline": "Deadline: May 30, 2024",
+    "image": "assets/images/disnep.jpg",
+    "jobType": "Intern"
+  }
+]

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "News Title 1",
+      "image": "img/nissan.jpg",
+      "date": "1st jan, 2024",
+      "category": "nissan",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "News Title 2",
+      "image": "img/toyota.jpg",
+      "date": "1st jan, 2024",
+      "category": "toyota",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "News Title 3",
+      "image": "img/nissan.jpg",
+      "date": "1st jan, 2024",
+      "category": "Nissan",
+      "link": "#"
+    }
+    
+  ]
+  
