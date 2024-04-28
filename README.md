@@ -8,9 +8,13 @@ Our Job Portal Website serves as a comprehensive platform for job seekers and em
 Features:
 
 🔍 Job Search: Easily search for job openings based on keywords, categories, and locations.
+
 📄 Resume Submission: Job seekers can seamlessly submit their resumes to apply for job listings.
+
 💼 Employer Dashboard: Employers have access to a powerful dashboard where they can post job listings, review applications, and communicate with candidates.
+
 🔐 User Authentication: Secure user authentication ensures that both job seekers and employers can access personalized features while maintaining their privacy and security.
+
 📱 Responsive Design: Our website is built with a responsive design, ensuring a seamless experience across different devices and screen sizes.
 Technologies Used:
 
